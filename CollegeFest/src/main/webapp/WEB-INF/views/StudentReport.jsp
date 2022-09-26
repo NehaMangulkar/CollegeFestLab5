@@ -11,7 +11,7 @@
 
 	<div class="container mt-3">
 
-		<h1>Add Student Form</h1>
+		<h1>Participants List</h1>
 		<a href="addStudent" class="btn btn-primary"> Add Student </a>
 		<div class="row">
 
